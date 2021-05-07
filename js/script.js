@@ -67,7 +67,7 @@ function getRandomColour() {
   
   document.body.style.background = bgColour;
 }
-//returns first element in the document with class="color".
+//returns first element in the document with class="colour".
 document.querySelector(".colour");
 
 
